@@ -26,7 +26,7 @@ Help welcome, eg by filling in the entries with `?` `TODO` and `CHECKME`.
 | **language** |
 | Distinction between traced and untraced pointers |  | yes | -1 |
 | forward declarations allowed? | yes | no; see https://github.com/nim-lang/Nim/issues/5287 | 1 |
-| User defined operators | no | yes | -1 |
+| User defined operators | partial | yes | -1 |
 | RAII | yes | no? see: [RAII](https://forum.nim-lang.org/t/362/1) | -1 |
 | delegates | yes | ? | ? |
 | **debugging** |
